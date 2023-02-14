@@ -1,0 +1,20 @@
+# include <iostream>
+using namespace std; 
+    void neymar(){
+    
+   cout << "Hello aa pahrtaan walaa \n";}
+    
+    void Petrovic(){
+    float radius, area_of_circle;
+    
+        
+        cout<<"Enter the Radius \n";
+        cin>>radius;
+        area_of_circle=2*3.14*radius*radius;
+        cout<<"area of cirle is: "<<area_of_circle;
+    } 
+    int main(){
+    neymar();
+    Petrovic();
+  
+}
